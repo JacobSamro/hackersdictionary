@@ -1,0 +1,9 @@
+{
+  "name": "Deep Learning",
+  "definitions": [
+    {
+      "field": "Artificial Intelligence",
+      "definition" : "Deep Learning is a subset of Machine Learning. It's comprised of Neural Networks inspired by Human Brain. Learning can be done on both supervised and unsupervised manner."
+    }
+  ]
+}
